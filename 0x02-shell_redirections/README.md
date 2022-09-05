@@ -18,3 +18,4 @@ Count that word
 18-letteronly - Display all lines of the file /etc/ssh/sshd_config starting with a letter. include capital letters as well
 15-countthatword - Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 6-third_line - Write a script that displays the third line of the file iacta. The file iacta will be in the working directory. You’re not allowed to use sed
+19-AZ - Replace all characters A and c from input to Z and e respectively.
