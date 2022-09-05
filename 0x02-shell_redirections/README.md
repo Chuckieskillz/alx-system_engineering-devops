@@ -13,3 +13,4 @@
 13-unique - Create a scripts that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word Output format: One line, one word Words should be sorted
 14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd (grep it)
 Count that word
+16-whatsnext - Display lines containing the pattern “root” and 3 lines after them in the file
